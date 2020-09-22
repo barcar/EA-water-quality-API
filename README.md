@@ -1,2 +1,4 @@
 # EA-water-quality-API
-Jupyter notebook to download the latest water quality data from the Environment Agency API by river catchment + some basic visualization and analysis
+Jupyter notebook to download the latest water quality data from the Environment Agency API by river catchment + some basic visualization and analysis.
+
+The maps will not show on GitHub; to see them, go to https://nbviewer.jupyter.org/github/cbaggini/EA-water-quality-API/blob/master/WQ_API.ipynb
